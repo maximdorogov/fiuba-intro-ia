@@ -1,0 +1,1 @@
+# Repositorio de trabajos practicos de la asignatura Introducción a la Inteligencia Artificial
